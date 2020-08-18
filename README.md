@@ -1,16 +1,17 @@
-// 1. Creating first React Component : Counter
-// 2. EMBEDING EXPRESSION
-// 3. SETTING ATTRIBUTES : attibuse of an image
-// 4. STYLING STYLES
-// 5. RENDERING CLASSES DYNAMICLY
-// 6. RENDERING LIST :
-// map method use korle key dite hobe
+1. Creating first React Component : Counter
+2. EMBEDING EXPRESSION
+   // 3. SETTING ATTRIBUTES : attibuse of an image
+   // 4. STYLING STYLES
+   // 5. RENDERING CLASSES DYNAMICLY
+   // 6. RENDERING LIST :
+   // map method use korle key dite hobe
 
 // 7. CONDITIONAL RENDERING
 // 8. HANDLING EVENTS : 1:02
-// 9. BINDING ENVEN HANDLERS:
-// using constructor to bind handle increment
-// arrow function => instead of constructor
+
+9. BINDING ENVEN HANDLERS:
+   // using constructor to bind handle increment
+   // arrow function => instead of constructor
 
 // 10.UPDATING THE STATE
 // 11. WHAT HAPPENS WHEN STATE CHANGES
@@ -76,6 +77,7 @@
        3. set state with new data
 
     2. UPDATE : when props or state of the component changed
+
        2 lifecycle hooks :
        => render
        => componentDidUpdate
